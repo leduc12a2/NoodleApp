@@ -1,0 +1,21 @@
+export default {
+  welcome: 'welcome',
+  scan: 'Follow the arrow to scan card',
+  error: 'Error',
+  subErrorScan: 'Can not recongnize your ID card',
+  scanAgain: 'Please scan again',
+  information: 'Information ',
+  outNoodles: 'Out of noodles',
+  getNoodles: 'Get your noodles',
+  noCup:
+    'There is 0 cup of noodles left in the machine. Please fill in to continue.',
+  moreCup: 'cups of  noodles left this month',
+  fullName: 'Full Name',
+  birthDate: 'Birth Date',
+  gender: 'Gender',
+  department: 'Department',
+  unavailable: 'Unavailable',
+  backToHome: 'Back to Home',
+  done: 'Done',
+  enjoy: 'Enjoy your noodles',
+};

@@ -1,0 +1,22 @@
+export const bg = require('./bg.png');
+export const logo = require('./logo.png');
+export const video = require('./video.png');
+export const scan = require('./Scan.png');
+export const deviceScan = require('./deviceScan.png');
+export const step = require('./step.png');
+export const imgscanerr = require('./imgscanerr.png');
+export const noCup = require('./noCup.png');
+export const bgInfo = require('./bgInfo.png');
+export const defautAvatar = require('./avatar.png');
+export const btnGetnoodles = require('./btnGetnoodles.png');
+export const bgCup = require('./bgCup.png');
+export const cup = require('./cup.png');
+export const cup2 = require('./cup2.png');
+export const cup3 = require('./cup3.png');
+
+export const btnNextMonth = require('./btnNextMonth.png');
+export const cupAvailable = require('./cupAvailable.png');
+export const belowarrow = require('./belowarrow.png');
+export const doneImg = require('./doneImg.png');
+export const btnbackToHome = require('./btnbackToHome.png');
+export const tim = require('./tim.png');
